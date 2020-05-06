@@ -489,7 +489,7 @@
                             "name": "keyword.other.r"
                         },
                         {
-                            "match": "\\\\[a-zA-Z0-9]+(\\s+|\\{|\\[)",
+                            "match": "\\\\[a-zA-Z0-9]+",
                             "name": "keyword.latex.r"
                         }
                     ]
